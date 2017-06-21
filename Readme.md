@@ -5,17 +5,18 @@ Environment: Python 2.7.10+
 將train, test文件夾置於與腳本同樣的位置即可。
 
 格式範例
+
 	train	/0	/01.jpg
-				/02.jpg
-				...
-			/1	/01.jpg
-				...
+			/02.jpg
+			...
+		/1	/01.jpg
+			...
 
 	test	/0	/01.jpg
-				/02.jpg
-				...
-			/1	/01.jpg
-				...
+			/02.jpg
+			...
+		/1	/01.jpg
+			...
 
 # task1
 
